@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1521750000 source:c:\users\buka\desktop\ib vi\kryptografia\lab 2\liczaca.cpp
+	<iostream>
+	<cstdlib>
+	"liczaca.h"
+
+1521728131 c:\users\buka\desktop\ib vi\kryptografia\lab 2\liczaca.h
+	<iostream>
+
+1522934945 source:c:\users\buka\desktop\ib vi\kryptografia\lab 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"szyfr.h"
+	"liczaca.h"
+
+1521729638 c:\users\buka\desktop\ib vi\kryptografia\lab 2\szyfr.h
+	<iostream>
+
+1521729953 source:c:\users\buka\desktop\ib vi\kryptografia\lab 2\szyfr.cpp
+	<iostream>
+	<cstdlib>
+	"szyfr.h"
+
+1524143698 source:c:\users\buka\desktop\ib vi\kryptografia\lab 3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"szyfr.h"
+	"liczaca.h"
+
+1523993420 c:\users\buka\desktop\ib vi\kryptografia\lab 3\szyfr.h
+	<iostream>
+
+1523994806 c:\users\buka\desktop\ib vi\kryptografia\lab 3\liczaca.h
+	<iostream>
+
+1523993420 source:c:\users\buka\desktop\ib vi\kryptografia\lab 3\szyfr.cpp
+	<iostream>
+	<cstdlib>
+	"szyfr.h"
+
+1523996035 source:c:\users\buka\desktop\ib vi\kryptografia\lab 3\liczaca.cpp
+	<iostream>
+	<cstdlib>
+	"liczaca.h"
+	"szyfr.h"
+
+1526217814 source:c:\users\buka\desktop\kryptografia\lab 4 (polifoniczny)\liczaca.cpp
+	<iostream>
+	<cstdlib>
+	"liczaca.h"
+	"szyfr.h"
+
+1526217795 c:\users\buka\desktop\kryptografia\lab 4 (polifoniczny)\liczaca.h
+	<iostream>
+
+1523993420 c:\users\buka\desktop\kryptografia\lab 4 (polifoniczny)\szyfr.h
+	<iostream>
+
+1526238707 source:c:\users\buka\desktop\kryptografia\lab 4 (polifoniczny)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1523993420 source:c:\users\buka\desktop\kryptografia\lab 4 (polifoniczny)\szyfr.cpp
+	<iostream>
+	<cstdlib>
+	"szyfr.h"
+
